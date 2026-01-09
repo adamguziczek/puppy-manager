@@ -14,7 +14,7 @@ const initialApplications = [
   { id: 10, name: 'James Wilson', phone: '555-0579', email: 'jwilson@email.com', submittedDate: '2026-01-06' }
 ];
 
-export default function PuppyClientManager() {
+export default function App() {
   const [pendingApplications, setPendingApplications] = useState(initialApplications);
   const [clients, setClients] = useState([]);
   const [events, setEvents] = useState([]);
