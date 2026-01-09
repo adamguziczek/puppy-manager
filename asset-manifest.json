@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adamguziczek/puppy-manager/static/css/main.e6c13ad2.css",
+    "main.js": "/adamguziczek/puppy-manager/static/js/main.6bd0d24b.js",
+    "static/js/453.ca159d72.chunk.js": "/adamguziczek/puppy-manager/static/js/453.ca159d72.chunk.js",
+    "index.html": "/adamguziczek/puppy-manager/index.html",
+    "main.e6c13ad2.css.map": "/adamguziczek/puppy-manager/static/css/main.e6c13ad2.css.map",
+    "main.6bd0d24b.js.map": "/adamguziczek/puppy-manager/static/js/main.6bd0d24b.js.map",
+    "453.ca159d72.chunk.js.map": "/adamguziczek/puppy-manager/static/js/453.ca159d72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6bd0d24b.js"
+  ]
+}
