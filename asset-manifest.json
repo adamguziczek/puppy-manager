@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/puppy-manager/static/css/main.c509c8d4.css",
-    "main.js": "/puppy-manager/static/js/main.76ca6960.js",
+    "main.js": "/puppy-manager/static/js/main.20eee6a7.js",
     "static/js/453.ca159d72.chunk.js": "/puppy-manager/static/js/453.ca159d72.chunk.js",
     "index.html": "/puppy-manager/index.html",
     "main.c509c8d4.css.map": "/puppy-manager/static/css/main.c509c8d4.css.map",
-    "main.76ca6960.js.map": "/puppy-manager/static/js/main.76ca6960.js.map",
+    "main.20eee6a7.js.map": "/puppy-manager/static/js/main.20eee6a7.js.map",
     "453.ca159d72.chunk.js.map": "/puppy-manager/static/js/453.ca159d72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c509c8d4.css",
-    "static/js/main.76ca6960.js"
+    "static/js/main.20eee6a7.js"
   ]
 }
